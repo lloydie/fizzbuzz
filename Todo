@@ -1,0 +1,5 @@
+- go-fizzbuzz
+    - test prog
+    - exec x5 out=stdout
+    - exec x5 out=/dev/null
+    - push results
