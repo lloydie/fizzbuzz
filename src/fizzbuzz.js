@@ -1,6 +1,6 @@
 #!/usr/bin/env nodejs
 
-var num_to = process.argv.slice(2);
+var num_to = 1000000
 
 for(i = 1 ; i <= num_to; i++) {
     var out = "";
