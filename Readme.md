@@ -1,6 +1,6 @@
 # About
 
-Fizzbuzz golf to 1 million.
+Fizzbuzz Challenge. Fastest 1 million.
 
 2 Class Compiled & Scripted.
 
@@ -15,6 +15,12 @@ Fizzbuzz is really cool at analyzing languages for performance, resource utilisa
 The more i looked at code samples the more intreged i became at the various choices
 we have and how they affect performance, utilisation and code readability and indeed
 the development environment variations and tuning is really cool.
+
+# Benchmarks
+Currently best i can achieve on i7-7500U @ 2.70GHz with no compiler or environment tuning.
+
+c   - 1.5 seconds
+py  - 3 seconds
 
 # Contributions
 All are welcome
