@@ -1,6 +1,6 @@
 # About
 
-The Hacker Fizzbuzz challenge. Fastest to 1 million.
+Fizzbuzz golf to 1 million.
 
 2 Class Compiled & Scripted.
 
