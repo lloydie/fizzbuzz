@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-num_to="$1"
+num_to="1000000"
 
 for ((n=1; n<=num_to; n++)); do
     out=""
